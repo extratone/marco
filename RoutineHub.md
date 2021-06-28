@@ -1,6 +1,4 @@
-![Marco Banner](MarcoBanner.png)
-
-# Marco!
+![Marco! Banner](https://i.snap.as/D6SijbwF.png)
 
 ## The definitive lost-in-the-couch solution... A 25-action noisemaker Siri Shortcut designed to be triggered by Hey Siri! in the event of a lost phone.
 
@@ -8,7 +6,7 @@
 * [iCloud Share Link](https://www.icloud.com/shortcuts/dada8a6c8906498d81885032fdacfc27)
 * [**RoutineHub**](https://routinehub.co/shortcut/8987/)
 * [Video Demo](https://youtu.be/3evgnSlnkjk) (YouTube)
-* [Blog Post](https://bilge.world/marco)
+* [**Blog Post**](https://bilge.world/marco)
 ```
 http://bit.ly/dbmarco
 ```
@@ -18,8 +16,6 @@ Well folks, this is my masterpiece. It is a 25-action Siri Shortcut designed for
 In such a scenario - as long as one has Hey Siri enabled - the Shortcut will respond to “Hey Siri!!... Marco!”
 
 The idea for this Shortcut dates back to iOS 12 Beta - when I first encountered Siri Shortcuts. For whatever reason, it didn’t take long for me to want a sort of call-and-return Shortcut for those (far too numerous) cases when I’d left my iPhone somewhere obscured in the room.
-
-<video src="C:\Users\david\marco\MarcoBetaDemo.mp4" width=50%;></video>
 
 ### Here are the steps in full:
 1. Turn Low Power Mode OFF
