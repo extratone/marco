@@ -1,4 +1,4 @@
-![Marco Banner](MarcoBanner.PNG)
+![Marco Banner](/MarcoBanner.PNG)
 
 # Marco! RoutineHub Documentation
 
