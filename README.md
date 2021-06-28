@@ -1,6 +1,8 @@
 ![Marco Banner](MarcoBanner.png)
 
-# Marco! RoutineHub Documentation
+# Marco!
+
+## The definitive lost-in-the-couch solution... A 25-action noisemaker Siri Shortcut designed to be triggered by Hey Siri! in the event of a lost phone.
 
 * [iCloud Share Link](https://www.icloud.com/shortcuts/dada8a6c8906498d81885032fdacfc27)
 * [**RoutineHub**](https://routinehub.co/shortcut/8987/)
@@ -8,21 +10,13 @@
 http://bit.ly/dbmarco
 ```
 
+Well folks, this is my masterpiece. It is a 25-action Siri Shortcut designed for those (all-too-frequent, in my case) situations when you’ve lost track of where you last set your handset down, but you’re pretty sure it hasn’t wandered out of the house - probably not even out of the room.
 
-
-<video src="C:\Users\david\marco\MarcoBetaDemo.mp4" width=50%;></video>
-
-## The definitive lost-in-the-couch solution.
-(**Note**: This Shortcut is _currently in BETA_ and requires iOS 14.5 Beta 8 in order to replicate the function demonstrated above.)
-
-**THIS VERSION INCLUDES PROFANITY**
-If you’re a potential tester who would prefer a clean version, _please do contact me_ via the methods below. I appreciate your interest and want to accommodate you any way I can.
+In such a scenario - as long as one has Hey Siri enabled - the Shortcut will respond to “Hey Siri!!... Marco!”
 
 The idea for this Shortcut dates back to iOS 12 Beta - when I first encountered Siri Shortcuts. For whatever reason, it didn’t take long for me to want a sort of call-and-return Shortcut for those (far too numerous) cases when I’d left my iPhone somewhere obscured in the room.
 
-### Marco! as it stands is a 48-action Siri Shortcut designed to be triggered by Hey Siri! in the event of a lost phone. 
-
-In this full, original version, **you’ll hear my actual voice** at the beginning, followed by a short song sample, and then a variety of shenanigans narrated by the new Siri Voice 2.
+<video src="C:\Users\david\marco\MarcoBetaDemo.mp4" width=50%;></video>
 
 ### Here are the steps in full:
 1. Turn Low Power Mode OFF
@@ -36,14 +30,8 @@ In this full, original version, **you’ll hear my actual voice** at the beginni
 9. Set volume to 89%
 10. Vibrate device (Not currently working.)
 11. Play **my voice** saying “Polo!” + a few other items
-12. Toggle (flash) the flashlight 17 times (odd number leaving your flashlight on constantly unless it was on before the Shortcut was triggered)
-13. Play a clip of Nasenbluten’s “[Blinded](https://bloodyfistrecords.bandcamp.com/track/blinded)”
-14. **Siri Voice 2 Monologue #1** including GPS Lat/Long and Altitude (yes, I realize this isn’t particularly useful.)
-15. Default notification sound plays 3 times
-16. **Siri Voice 2 Monologue #2** is a theatrical reading of the infamous [Navy SEAL Copypasta](https://knowyourmeme.com/memes/navy-seal-copypasta).
-17. Plays a farewell in **my voice** 
-18. Shows a goodbye notification
-19. Plays the entirety of Sarah MacLachlan’s “[Angel](https://song.link/us/i/290584107)”
+12. Toggle (flash) the flashlight 5 times (odd number leaving your flashlight on constantly unless it was on before the Shortcut was triggered)
+13. Simultaneously (in the same repeat action) plays three separate classic Mac sounds 5 times.
 
 ***
 ## Contact
