@@ -1,4 +1,4 @@
-![MarcoBanner](C:\Users\david\marco\MarcoBanner.png)
+<img src="C:\Users\david\marco\MarcoBanner.png" alt="MarcoBanner" style="zoom:50%;" />
 
 # Marco! RoutineHub Documentation
 
@@ -8,7 +8,9 @@
 http://bit.ly/dbmarco
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szVcS8i3Gs8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<video src="C:\Users\david\marco\MarcoBetaDemo.mp4" width=50%;></video>
 
 ## The definitive lost-in-the-couch solution.
 (**Note**: This Shortcut is _currently in BETA_ and requires iOS 14.5 Beta 8 in order to replicate the function demonstrated above.)
