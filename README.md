@@ -1,4 +1,4 @@
-<img src="C:\Users\david\marco\MarcoBanner.png" alt="MarcoBanner" style="zoom:50%;" />
+![Marco Banner](marcobanner.png)
 
 # Marco! RoutineHub Documentation
 
